@@ -1,6 +1,6 @@
 ### Hi there 👋, Emirkan Balcı
 #### Computer engineering student at Maltepe University
-I'm studying computer engineering. I'm a 2nd grade student. My eternal purpose in life is to always learn and continue to improve.
+I'm studying computer engineering. I'm a 3nd grade student. My eternal purpose in life is to always learn and continue to improve.
 
 Skills: JAVA 
 
